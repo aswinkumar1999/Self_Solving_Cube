@@ -15,3 +15,5 @@ Using N20 DC motors with Encoders.
 
 Feasiblity : 
 
+![image_1](https://github.com/aswinkumar1999/Self_Solving_Cube/blob/master/Images/Screenshot%20from%202020-05-01%2022-54-17.png)
+![image_2](https://github.com/aswinkumar1999/Self_Solving_Cube/blob/master/Images/Screenshot%20from%202020-05-01%2022-54-20.png)
